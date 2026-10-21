@@ -1,0 +1,1 @@
+crear script per a linux
