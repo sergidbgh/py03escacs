@@ -4,10 +4,15 @@ Escacs en python. POO.
 #### Estructura carpetes
 py03escacs
 ├── bin (executable)
+
 ├── doc (documentació)
+
 ├── esc (partides gravades)
+
 ├── log (logs de les execucions)
+
 ├── ori (exemples originals per agafar com a model)
+
 └── src (codi font)
 
 #### Notes de *bin*
