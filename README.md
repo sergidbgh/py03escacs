@@ -3,6 +3,7 @@ Escacs en python. POO.
 
 #### Estructura carpetes
 py03escacs
+
 ├── bin (executable)
 
 ├── doc (documentació)
