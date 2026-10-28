@@ -1,10 +1,11 @@
-class Peo:
+from peca import Peca
+
+class Peo(Peca):
     # Variable general de la classe
     tipus = "Servidor Linux"
 
     # Constructor
     def __init__(self, color_fitxa, id):
-        self.color = color_fitxa
         self.id = id
         self.viu = True
 
